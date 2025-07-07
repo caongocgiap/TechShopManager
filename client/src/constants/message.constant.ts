@@ -1,0 +1,1 @@
+export const INTERNAL_SERVER_ERROR = "Đã có lỗi xảy ra! Vui lòng thử lại sau!";
